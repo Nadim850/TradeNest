@@ -1,3 +1,5 @@
+import { Routes, Route } from "react-router-dom";
+
 import HomePage from "/src/landingPage/home/HomePage";
 import Navbar from "./LandingPage/Navbar";
 import Footer from "./LandingPage/Footer";
