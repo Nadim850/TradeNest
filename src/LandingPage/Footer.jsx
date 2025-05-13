@@ -26,29 +26,29 @@ function Footer() {
             <div className="social">
               <ul>
                 <li>
-                  <i class="fa fa-twitter " aria-hidden="true"></i>
+                  <i className="fa fa-twitter " aria-hidden="true"></i>
                 </li>
                 <li>
-                  <i class="fa fa-facebook-official" aria-hidden="true"></i>
+                  <i className="fa fa-facebook-official" aria-hidden="true"></i>
                 </li>
                 <li>
-                  <i class="fa fa-instagram" aria-hidden="true"></i>
+                  <i className="fa fa-instagram" aria-hidden="true"></i>
                 </li>
                 <li>
-                  <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                  <i className="fa fa-linkedin-square" aria-hidden="true"></i>
                 </li>
               </ul>
               <hr />
               <ul>
                 <li>
                   {" "}
-                  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                  <i className="fa fa-youtube-play" aria-hidden="true"></i>
                 </li>
                 <li>
-                  <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                  <i className="fa fa-whatsapp" aria-hidden="true"></i>
                 </li>
                 <li>
-                  <i class="fa fa-telegram" aria-hidden="true"></i>
+                  <i className="fa fa-telegram" aria-hidden="true"></i>
                 </li>
               </ul>
             </div>
