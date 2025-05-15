@@ -1,11 +1,13 @@
 import Brokerage from "./Brokerage";
 import Hero from "./Hero";
+import Charges from "./Charges";
 
 function PricingPage() {
   return (
     <>
-      <Brokerage />
       <Hero />
+      <Brokerage />
+      <Charges />
     </>
   );
 }
