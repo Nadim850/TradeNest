@@ -34,19 +34,9 @@ function Team() {
             (SMAC) and the Market Data Advisory Committee (MDAC).
           </p>
           <p>Playing basketball is his zen.</p>
-          <p>
-            Connect on{" "}
-            <a href="#" style={{ color: "#387ED1", textDecoration: "none" }}>
-              Homepage
-            </a>{" "}
-            /{" "}
-            <a href="#" style={{ color: "#387ED1", textDecoration: "none" }}>
-              TradingQnA
-            </a>{" "}
-            /{" "}
-            <a href="#" style={{ color: "#387ED1", textDecoration: "none" }}>
-              Twitter
-            </a>{" "}
+          <p className="links">
+            Connect on <a href="#">Homepage</a> / <a href="#">TradingQnA</a> /{" "}
+            <a href="#">Twitter</a>{" "}
           </p>
         </div>
       </div>
