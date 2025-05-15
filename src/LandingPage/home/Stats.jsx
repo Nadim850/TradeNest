@@ -40,13 +40,13 @@ function Stats() {
         <div className="col-6">
           <img src="media/images/ecosystem.png" style={{ width: "100%" }} />
           <p className="text-center my-3">
-            <a style={{ color: "#387ED1" }}>
+            <a className="links">
               Explore our products{" "}
-              <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+              <i className="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>
-            <a style={{ color: "#387ED1", marginLeft: "1.5rem" }}>
+            <a className="links" style={{ marginLeft: "1.5rem" }}>
               Try Kite demo
-              <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+              <i className="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>
           </p>
         </div>
