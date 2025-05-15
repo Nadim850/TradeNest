@@ -1,3 +1,6 @@
+body{
+    padding-top: 80px;
+}
 .links{
     text-decoration: none;
     color:#387ED1;
@@ -11,9 +14,9 @@
     margin-left: 30px
 }
 
-ul {
+/* ul {
     list-style-type: none;
-}
+} */
 
 #footer-links a {
     text-decoration: none;
@@ -94,4 +97,43 @@ ul {
 .univers div p {
     font-size: 12px;
     color: #9b9b9b !important;
+}
+
+/* pricing section */
+
+.brokerage {
+    padding-top: 80px;
+}
+
+.charges-section {
+    padding-top:80px ;
+}
+
+.charges-section h3{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.charges-section h6{
+    margin-top: 16px;
+    margin-bottom: 15px;
+    color: #555555 !important;
+}
+.charges-section p{
+    font-size: 13px;
+    margin-top: 12px;
+    margin-bottom: 15px;
+    color: #555555 !important;
+}
+.charges-section div div p{
+    font-size: 13px;
+    margin-top: 16px;
+    margin-bottom: 15px;
+    line-height: 1.2rem;
+    color: #555555 !important;
+}
+.charges-section div div ul li{
+    font-size: 13px;
+    margin-bottom: 5px;
+    line-height: 1.5rem;
+    color: #555555 !important;
 }
