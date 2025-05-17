@@ -185,9 +185,50 @@ body {
 #supportHero{
         background-color: #387ed1;
         color: white;
+        padding-top: 90px;
+        padding: 85px;
+}
+#supportHero a{
+  color: white;
 }
 #supportWrapper{
     display: flex;
     justify-content: space-between;
-    margin: 0 150px;
+    margin:0 35px
 }
+#supportHero input{
+  padding:10px 10px 10px 0 ;
+  margin-bottom: 15px;
+  width: 85%;
+  font-size: 20px;
+  border-radius: 2px;
+  border:none;
+}
+#supportHero div div span{
+  margin-right: 20px;
+  margin-bottom: 200px;
+  display: inline;
+}
+#supportHero div div span a{
+  text-underline-offset: 10px;
+}
+#supportHero div div ol li {
+  line-height: 3;
+}
+#supportHero div p{
+  margin-top: 20px;
+  margin-bottom: 30px;
+  
+}
+.input i {
+  margin-left: -35px;
+  color: #6c757d;
+  font-size: 20px;
+  
+}
+.input input{
+  font-size: 18px !important;
+  padding-left: 20px !important;
+}
+
+
